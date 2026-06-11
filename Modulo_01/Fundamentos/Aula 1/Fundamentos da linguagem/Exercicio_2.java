@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Exercicio_2 {
 
-    public static void mais(String[] args){
+    public static void main(String[] args){
         var scanner = new Scanner(System.in);
 
         System.out.println("Digite o lado do quadrado para ser calculada a área: ");
